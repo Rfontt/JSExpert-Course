@@ -1,5 +1,13 @@
 # O que são mocks?
 
-Imagine que você tem 2 testes A e B, e precisa fazer mais um. Como irá fazer? Irá passar por A e B para testar C?
+ Mocks são imitações ou unidades falsas que simulam o comportamento de unidades reais
 
-É para isso que servem os mocks, ao invés de replicar os testes para realizar um determinado teste, podemos criar objetos que partem do princípio de o primeiro teste já está com tudo funcionando, ou seja, que o teste A já está funcionando, e assim você pode seguir do B para o C sem passar pelo A.
+# Para que serve stubs?
+
+São usados para substituir algum comportamento no sistema por objetos-estados onde é criado diferentes mocks para cada cenário específico.
+
+Os stubs vão nos dizer qual o resultado esperado de acordo com o que passarmos como argumentos.
+
+# Trabalhando com Spies
+
+O spies observam suas funções e valida a quantidade de vezes que elas foram chamadas com quais parâmetros e quais resultados.
