@@ -1,0 +1,19 @@
+[{
+    "id": "91b93f94-e7f7-4b81-9383-3232844f0608",
+    "name": "Civic",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+}, {
+    "id": "a00703d2-e4e4-4673-be56-835ed1691662",
+    "name": "Durango",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+}, {
+    "id": "a19c11f1-5451-4d8c-90d4-9feeda02e61b",
+    "name": "Escalade",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+}]
